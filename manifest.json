@@ -1,0 +1,14 @@
+{
+  "instances": [
+    {
+      "id": "vanilla-1.8",
+      "name": "Vanilla 1.8",
+      "version": "1.8",
+      "loader": "vanilla",
+      "mods": [],
+      "icon": "https://example.com/icons/vanilla18.png",
+      "description": "Minecraft Vanilla 1.8",
+      "download": "https://raw.githubusercontent.com/PentaCreators/SERVER_LAUNCHER/main/instances/vanilla-1.8.zip"
+    }
+  ]
+}
